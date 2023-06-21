@@ -1,0 +1,5 @@
+mkdir aditya
+cd aditya
+touch aditya1.txt
+cat > aditya1.txt
+ls
